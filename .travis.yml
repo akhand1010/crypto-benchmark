@@ -4,7 +4,6 @@ language: c
 arch:
   - amd64
   - arm64-graviton2
-
 virt: lxd
 
 group: edge
